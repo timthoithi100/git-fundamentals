@@ -1,2 +1,2 @@
 # Git Fundamentals
-A beginner-friendly guide to mastering Git.
+A beginner-friendly, practical guide to mastering Git.
